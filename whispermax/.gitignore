@@ -1,0 +1,14 @@
+# Fichiers Python
+*.pyc
+__pycache__/
+
+# Fichiers temporaires générés par ton programme
+*.wav
+*.srt
+*.mkv
+*.mp4
+*.txt
+
+# Fichiers sensibles
+*.env
+cookies.txt
